@@ -1,5 +1,6 @@
 // fmt.Println("usage: go run <appName.go>  < json/<filename>.json")
 // new changes from Patrick
+//
 package main
 
 import (
